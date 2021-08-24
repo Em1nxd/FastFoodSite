@@ -661,6 +661,7 @@ header .icon #menu-bars {
 }
 .loader-container.fade-out {
   opacity: 0;
+  transform: scale(0);
 }
 
 .fixed {
